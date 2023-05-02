@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wordie-game/static/css/main.b471b82c.css",
+    "main.js": "/wordie-game/static/js/main.1e5c2aa4.js",
+    "index.html": "/wordie-game/index.html",
+    "main.b471b82c.css.map": "/wordie-game/static/css/main.b471b82c.css.map",
+    "main.1e5c2aa4.js.map": "/wordie-game/static/js/main.1e5c2aa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b471b82c.css",
+    "static/js/main.1e5c2aa4.js"
+  ]
+}
